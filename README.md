@@ -5,7 +5,7 @@
 I work for an amazing local company called Cordel as a full stack developer,
 in the .NET stack with some JavaScript (plus React) on the side.
 We specialise in providing LIDAR based solutions to asset management
-and infringement detection problems with products in the Rail and UAV
+and gauging clearance problems with products in the Rail and UAV
 spaces.
 
 ### Academic
