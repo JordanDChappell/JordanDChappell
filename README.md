@@ -1,12 +1,18 @@
 ## About
-👋 G'day, I’m Jordan Chappell, a software developer from Newcastle, Australia.
+👋 G'day, I'm Jordan.
+
+🌏 I live on the east coast of Australia in a beautiful city called Newcastle.
+
+💼 I am a software developer.
 
 ### Professional
-I work for an amazing local company called Cordel as a full stack developer,
-in the .NET stack with some JavaScript (plus React) on the side.
+I work for an amazing local company called Cordel as 'Lead Web Developer'.
 We specialise in providing LIDAR based solutions to asset management
 and gauging clearance problems with products in the Rail and UAV
 spaces.
+
+Our web stack is built with .NET and ReactJS and is deployed across AWS
+and Azure to meet customer requirements.
 
 ### Academic
 I studied Computer Science and hold a Bachelor's degree obtained at the 
