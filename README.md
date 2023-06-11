@@ -28,6 +28,6 @@ some creativity from myself. 🎧🎶
 
 ## Places I Am
 - [Website](https://jordanchappell.com)
-- [Twitter](https://twitter.com/JordanDChappell)
+- [Mastodon](https://mstdn.social/@JordanDChappell)
 - [LinkedIn](https://www.linkedin.com/in/jordan-chappell-380486153)
 - [Email](mailto:me@jordanchappell.com)
