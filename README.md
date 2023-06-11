@@ -26,7 +26,7 @@ having started a decent amount and finished a few. Currently I'm working on
 setting up a small hobbyist music production setup, attempting to extract
 some creativity from myself. 🎧🎶
 
-## Places I Am
+## Links
 - [Website](https://jordanchappell.com)
 - [Mastodon](https://mstdn.social/@JordanDChappell)
 - [LinkedIn](https://www.linkedin.com/in/jordan-chappell-380486153)
