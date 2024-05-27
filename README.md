@@ -8,8 +8,7 @@
 ### Professional
 I work for an amazing local company called Cordel as 'Lead Web Developer'.
 We specialise in providing LIDAR based solutions to asset management
-and gauging clearance problems with products in the Rail and UAV
-spaces.
+and gauging clearance problems with products for rail based customers.
 
 Our web stack is built with .NET and ReactJS and is deployed across AWS
 and Azure to meet customer requirements.
